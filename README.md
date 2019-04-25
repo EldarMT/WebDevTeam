@@ -11,5 +11,5 @@ Our website "All in Bloom" helps customers choose beautiful bouquets related to 
 
 
 Team:
-*Ибрагимова Аида   aida.ibragimova.1999@list.ru    https://github.com/Aida99/WEBDEV2019
-*Tastanov Eldar    tastanovel@gmail.com            https://github.com/EldarMT
+1. Ибрагимова Аида   aida.ibragimova.1999@list.ru    https://github.com/Aida99/WEBDEV2019
+2. Tastanov Eldar    tastanovel@gmail.com            https://github.com/EldarMT
